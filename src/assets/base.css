@@ -1,0 +1,120 @@
+body {
+  background-color: rgb(34, 34, 34);
+  color: black;
+  font-family: poppinsregular;
+  margin-left: auto;
+  margin-right: auto;
+  width: 55em;
+  margin: 0 auto;
+  padding: 15px;
+  background: #FFE766;
+  display: center;
+  overflow: hidden;
+  position: relative;
+
+}
+
+.title {
+  color: #483698;
+  font-family: 'Comfortaa', cursive;
+}
+
+.container{
+  font-family: 'Comfortaa', cursive;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 100px;
+  padding: 30px;
+  background-color: white;
+  border-bottom: 1px solid #eee;
+  border-radius: 20px;
+  
+}
+ /* {
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  padding: 100px;
+  width: 951px;
+  height: 700px;
+  border-bottom: 1px solid #eee;
+  border-radius: 20px;
+  margin-top: 50px;
+  overflow-y: 0;
+  position: relative;
+  font-family: 'Open Sans';
+ }
+*/
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+.image1 {
+  
+  padding: 10px;
+  width: 440px;
+  margin-top: 70px;
+  margin-left: 40px;
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.input-name {
+  width: 340px;
+  border-radius: 8px;
+  border: 1px solid #483698;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-family: 'Open Sans';
+}
+
+.input-cpf {
+  width: 320px;
+  border-radius: 8px;
+  border: 1px solid #483698;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-family: 'Open Sans';
+}
+
+.input-celular {
+  width: 320px;
+  border-radius: 8px;
+  border: 1px solid #483698;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-family: 'Open Sans';
+}
+
+
+
+.btn-next{
+  width: 350px;
+  height: 40px;
+  border-radius: 20px;
+  border: 1px solid #483698;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-family: 'Comfortaa', cursive;
+  background-color: #483698;
+  color: white;
+}
+ .campo-uf{
+   text-align: justify;
+ } 
+
+#estado-cidade{
+  display: inline-block;
+  flex-direction: inline;
+
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Montserrat:wght@200;300&family=Raleway:ital,wght@0,900;1,400;1,600&family=Roboto+Mono:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Montserrat:wght@200;300&family=Open+Sans:wght@300&family=Raleway:ital,wght@0,900;1,400;1,600&family=Roboto+Mono:wght@300&display=swap');

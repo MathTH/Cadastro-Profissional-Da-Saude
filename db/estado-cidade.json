@@ -1,0 +1,92 @@
+   { 
+       "estado" : [
+    {
+      "id": 1,
+      "nome": "Rio Grande do Sul",
+      "sigla": "RS"
+    },
+    {
+      "id": 2,
+      "nome": "Santa Catarina",
+      "sigla": "SC"
+    },
+    {
+      "id": 3,
+      "nome": "Paraná",
+      "sigla": "PR"
+    },
+    {
+      "id": 4,
+      "nome": "Goiás",
+      "sigla": "GO"
+    },
+    {
+      "id": 5,
+      "nome": "Mato Grosso",
+      "sigla": "MT"
+    },
+    {
+      "id": 6,
+      "nome": "Mato Grosso do Sul",
+      "sigla": "MS"
+    }
+  ],
+
+    "cidade" :[
+        {
+            "id": 1,
+            "nome": "Pelotas",
+            "estadoId": 1
+          },
+          {
+            "id": 2,
+            "nome": "Santa Maria",
+            "estadoId": 1
+          },
+          {
+            "id": 3,
+            "nome": "Joinville",
+            "estadoId": 2
+          },
+          {
+            "id": 4,
+            "nome": "Caxias do Sul",
+            "estadoId": 1
+          },
+          {
+            "id": 5,
+            "nome": "Londrina",
+            "estadoId": 3
+          },
+          {
+            "id": 6,
+            "nome": "Maringá",
+            "estadoId": 3
+          },
+          {
+            "id": 7,
+            "nome": "Campo Grande",
+            "estadoId": 6
+          },
+          {
+            "id": 8,
+            "nome": "Goiânia",
+            "estadoId": 4
+          },
+          {
+            "id": 9,
+            "nome": "Cuiabá",
+            "estadoId": 5
+          },
+          {
+            "id": 10,
+            "nome": "Florianópolis",
+            "estadoId": 2
+          },
+          {
+            "id": 11,
+            "nome": "Porto Alegre",
+            "estadoId": 1
+          }
+    ]
+}

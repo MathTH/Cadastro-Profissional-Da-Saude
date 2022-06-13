@@ -1,0 +1,18 @@
+{
+  "name": "cadastro-profissional-da-saude",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "backend-estado-cidade": "json-server --watch db/estado-cidade.json",
+    "preview": "vite preview --port 5050"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "vue": "^3.2.33"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.1",
+    "vite": "^2.9.5"
+  }
+}
