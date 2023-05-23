@@ -1,29 +1,3 @@
 # cadastro-profissional-da-saude
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+Como parte de um teste para uma vaga de desenvolvedor front-end, utilizei a tecnologia Vue.js para criar interfaces de usuário interativas e responsivas. Com o Vue.js, pude desenvolver componentes reutilizáveis e configurar um ambiente de desenvolvimento eficiente para criar uma experiência de usuário de alta qualidade.
